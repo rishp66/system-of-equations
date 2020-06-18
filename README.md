@@ -1,5 +1,5 @@
 # java solutions
- miscellaneous java projects
+creating a program to calculate the solution for a system of equations
  ### Point:
  - Creates a Point object that is a specific location on an x/y graph
  
